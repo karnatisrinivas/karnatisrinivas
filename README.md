@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karnatisrinivas
-- 📫 How to reach me ...karnatisrinivasulareddy@gmail.com
+- 📫 How to reach me ...  karnatisrinivasulareddy@gmail.com
 
 <!---
 karnatisrinivas/karnatisrinivas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
