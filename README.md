@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Srinivas Karnati</h1>
-<img align="right" alt="PNG" src="https://github.com/Vanshikapandey30/Vanshikapandey30/blob/main/assets/img/cat.png" width="300" height="300" />
+<img align="right" alt="PNG" src="https://github.com/karnatisrinivas/karnatisrinivas/blob/main/cat.png" width="300" height="300" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karnatisrinivas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
 
 
