@@ -1,4 +1,6 @@
-<h1>Hi 👋, I'm Srinivas Karnati</h1>
+# Hi, I'm Srinivas Karnati <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/__karnati" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="" height="40" width="40" /></a>
@@ -11,8 +13,13 @@
 
 
 
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karnatisrinivas&theme=dark)](https://git.io/streak-stats)
 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=karnatisrinivas&theme=dracula&hide_border=true)
+
+
 ![](https://komarev.com/ghpvc/?username=karnatisrinivas) 
+
+
+
