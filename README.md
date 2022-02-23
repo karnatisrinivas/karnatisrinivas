@@ -31,7 +31,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karnatisrinivas&theme=dark" />
 </p>
 
-## Hashnode Blogs 👇
+### Hashnode Blogs 👇
 <!-- HASHNODE_BLOG:START -->
 - [Getting started with Azure Policies](https://srinivaskarnati.hashnode.dev/getting-started-with-azure-policies-ckzy3ener000e8lnv4gkzddnk)
 - [Create a Virtual Network on Azure](https://srinivaskarnati.hashnode.dev/create-a-virtual-network-on-azure-ckzutli0m05veids17r57alsj)
@@ -40,7 +40,10 @@
 - [OSI Model and it's layers](https://srinivaskarnati.hashnode.dev/osi-model-and-its-layers-ckzodsylq0311s5s1cony0mxu)
 <!-- HASHNODE_BLOG:END -->
 
+### Certifications:
 
-
+- [Microsoft Certified: Power Platform App Maker Associate - (PL-100)](https://www.credly.com/badges/0ab34c2c-254f-49da-8ce2-ca44d1a2242c/public_url)
+- [Microsoft Certified: Power Platform Fundamentals - (PL - 900)](https://www.credly.com/badges/47d424f1-02a2-4143-a862-a9e340363581/public_url)
+- [Microsoft 365 Certified: Fundamentals - (MS - 900)](https://www.credly.com/badges/d296e48a-4db1-4236-a6cb-ed1f0d19f30e/public_url)
 
 
