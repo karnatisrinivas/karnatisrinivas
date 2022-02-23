@@ -31,7 +31,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karnatisrinivas&theme=dark" />
 </p>
 
-## My Latest Blog Posts 👇
+## Hashnode Blogs 👇
 <!-- HASHNODE_BLOG:START -->
 - [Getting started with Azure Policies](https://srinivaskarnati.hashnode.dev/getting-started-with-azure-policies-ckzy3ener000e8lnv4gkzddnk)
 - [Create a Virtual Network on Azure](https://srinivaskarnati.hashnode.dev/create-a-virtual-network-on-azure-ckzutli0m05veids17r57alsj)
