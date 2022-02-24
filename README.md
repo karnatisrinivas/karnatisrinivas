@@ -3,7 +3,7 @@
 ### About me
 - Currently working as SharePoint and Power Platforms Developer.
 - Devops and Cloud Enthusiast
-- 
+
 <img align="right" alt="PNG" src="https://github.com/karnatisrinivas/karnatisrinivas/blob/main/cat.png" width="300" height="300" />
 
 <a href="https://www.linkedin.com/in/srinivas-karnati">
@@ -22,6 +22,8 @@
 - Git
 - Linux
 - Azure (...)
+- Docker (...)
+- Kubernetes (...)
 
 
 
