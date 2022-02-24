@@ -2,7 +2,7 @@
 
 ### About me
 - Currently working as SharePoint and Power Platforms Developer.
-- Devops and Cloud Enthusiast
+- Devops and Cloud Enthusiast ☁️
 
 <img align="right" alt="PNG" src="https://github.com/karnatisrinivas/karnatisrinivas/blob/main/cat.png" width="300" height="300" />
 
