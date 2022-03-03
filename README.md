@@ -45,6 +45,7 @@
 ### Certifications:
 
 - [Microsoft Certified: Power Platform App Maker Associate - (PL-100)](https://www.credly.com/badges/0ab34c2c-254f-49da-8ce2-ca44d1a2242c/public_url)
+- [Microsoft Certified: Azure Fundamentals- (AZ -900)](https://www.credly.com/badges/2af168c1-1c47-4f2c-a378-16e972b31cd2/public_url)
 - [Microsoft Certified: Power Platform Fundamentals - (PL - 900)](https://www.credly.com/badges/47d424f1-02a2-4143-a862-a9e340363581/public_url)
 - [Microsoft 365 Certified: Fundamentals - (MS - 900)](https://www.credly.com/badges/d296e48a-4db1-4236-a6cb-ed1f0d19f30e/public_url)
 
