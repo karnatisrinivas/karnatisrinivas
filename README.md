@@ -35,11 +35,11 @@
 
 ### Hashnode Blogs 👇
 <!-- HASHNODE_BLOG:START -->
+- [15 Docker Commands you should know](https://srinivaskarnati.hashnode.dev/15-docker-commands-you-should-know-cl0hqto7h030w28nv1gzccime)
 - [Getting Started with Azure CLI](https://srinivaskarnati.hashnode.dev/getting-started-with-azure-cli-cl0cilygk04hv2rnvhmli5e5s)
 - [Azure Network Security Groups:](https://srinivaskarnati.hashnode.dev/azure-network-security-groups-cl06s1mn10g8zudnvgtcl8tzv)
 - [Getting started with Azure Policies](https://srinivaskarnati.hashnode.dev/getting-started-with-azure-policies-ckzy3ener000e8lnv4gkzddnk)
 - [Create a Virtual Network on Azure](https://srinivaskarnati.hashnode.dev/create-a-virtual-network-on-azure-ckzutli0m05veids17r57alsj)
-- [Deploy a Virtual machine on Azure](https://srinivaskarnati.hashnode.dev/deploy-a-virtual-machine-on-azure-ckzsin3h701472ps16eiu0ypo)
 <!-- HASHNODE_BLOG:END -->
 
 ### Certifications:
