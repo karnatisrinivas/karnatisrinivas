@@ -16,15 +16,16 @@
 - And one more, I love Coffee  💕
 ### Technologies
 - JavaScript
-- Python
-- Power Apps
-- Power Automate
-- SharePoint Framework (SPFx)
 - Git
 - Linux
 - Azure (...)
 - Docker (...)
 - Kubernetes (...)
+- Terraform
+- Python
+- Power Apps
+- Power Automate
+- SharePoint Framework (SPFx)
 
 
 
