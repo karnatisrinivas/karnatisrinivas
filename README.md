@@ -6,12 +6,9 @@
 
 <img align="right" alt="PNG" src="https://github.com/karnatisrinivas/karnatisrinivas/blob/main/cat.png" width="300" height="300" />
 
-<a href="https://www.linkedin.com/in/srinivas-karnati">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
- </a> 
-<a href="https://twitter.com/__karnati">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
-</a>
+
+<a href="https://twitter.com/__karnati"><img src="https://img.shields.io/twitter/follow/__karnati?color=blue&label=%40__karnati&logo=twitter&style=for-the-badge" height="30"> </a>
+   <a href="https://www.linkedin.com/in/srinivas-karnati"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30"/></a>
 
 - And one more, I love Coffee  💕
 ### Technologies
