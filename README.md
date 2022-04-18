@@ -48,5 +48,5 @@
 - [Microsoft Certified: Power Platform Fundamentals - (PL - 900)](https://www.credly.com/badges/47d424f1-02a2-4143-a862-a9e340363581/public_url)
 - [Microsoft 365 Certified: Fundamentals - (MS - 900)](https://www.credly.com/badges/d296e48a-4db1-4236-a6cb-ed1f0d19f30e/public_url)
 
-![](https://komarev.com/ghpvc/?username=karnatisrinivas) 
+
 
