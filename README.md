@@ -49,5 +49,6 @@
 - [Microsoft Certified: Power Platform App Maker Associate - (PL-100)](https://www.credly.com/badges/0ab34c2c-254f-49da-8ce2-ca44d1a2242c/public_url)
 - [Microsoft 365 Certified: Fundamentals - (MS - 900)](https://www.credly.com/badges/d296e48a-4db1-4236-a6cb-ed1f0d19f30e/public_url)
 
-
-
+### Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
