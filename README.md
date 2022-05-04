@@ -27,11 +27,11 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=karnatisrinivas&show_icons=true&theme=dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karnatisrinivas&theme=dark" />
 </p>
-
+ -->
 ### Hashnode Blogs 👇
 <!-- HASHNODE_BLOG:START -->
 - [Kubernetes Objects](https://srinivaskarnati.hashnode.dev/kubernetes-objects-cl1egvhbs01e5cznv62fd3i1n)
