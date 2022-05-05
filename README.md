@@ -72,3 +72,6 @@ One of the fi... </p> <br/> <br/>
 4. 🗣 Commented on [#2757](https://github.com/layer5io/layer5/issues/2757) in [layer5io/layer5](https://github.com/layer5io/layer5)
 5. 💪 Opened PR [#2760](https://github.com/layer5io/layer5/pull/2760) in [layer5io/layer5](https://github.com/layer5io/layer5)
 <!--END_SECTION:activity-->
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
