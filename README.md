@@ -48,19 +48,6 @@
 <br/> Docker is a containerization system which packages and runs the application with its dependencies inside a container.  In this article, I mentioned about 15 Docker Commands you need to know while working with Docker.
 1. docker --version
 One of the fi... </p> <br/> <br/>
-<p align="left">
-<a href="https://srinivaskarnati.hashnode.dev/getting-started-with-azure-cli" title="Getting Started with Azure CLI"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646404221234/xRTwL7Nn8.png" alt="Getting Started with Azure CLI" width="250px" align="left" /></a>
-<a href="https://srinivaskarnati.hashnode.dev/getting-started-with-azure-cli" title="Getting Started with Azure CLI"><strong>Getting Started with Azure CLI</strong></a>
-<div><strong>4 Mar 2022</strong> | <strong>Updated: 4 Mar 2022</strong></div>
-<br/> What is Azure CLI?
-The Azure Command-Line Interface (CLI) is a command-line tool which connect to Azure and execute administrative commands on Azure resources. It allows the execution of commands through a terminal using interactive command-line prom... </p> <br/> <br/>
-<p align="left">
-<a href="https://srinivaskarnati.hashnode.dev/azure-network-security-groups" title="Azure Network Security Groups:"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646057462291/VZ3soXVOX.png" alt="Azure Network Security Groups:" width="250px" align="left" /></a>
-<a href="https://srinivaskarnati.hashnode.dev/azure-network-security-groups" title="Azure Network Security Groups:"><strong>Azure Network Security Groups:</strong></a>
-<div><strong>28 Feb 2022</strong> | <strong>Updated: 28 Feb 2022</strong></div>
-<br/> Network Security Group
-An Azure Network Security Group (NSG) is a core component of Azure’s security. You can use an Azure network security group to filter network traffic to and from Azure resources in an Azure virtual network. Network (VNet). 
-A ne... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### Certifications:
