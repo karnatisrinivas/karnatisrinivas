@@ -19,6 +19,7 @@ jobs:
           USERNAME: 'srinivaskarnati' # Hashnode Username
           COUNT: 4 # MAX Visisble
           style: "blog-grid"
+          BLOG_URL: "https://srinivaskarnati.hashnode.dev"
           
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
