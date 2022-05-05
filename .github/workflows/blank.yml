@@ -17,6 +17,8 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'srinivaskarnati' # Hashnode Username
-          COUNT: 5 # MAX Visisble
+          COUNT: 2 # MAX Visisble
+          style: "blog-left"
+          
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
