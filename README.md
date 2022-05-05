@@ -49,6 +49,14 @@
 - [Microsoft Certified: Power Platform App Maker Associate - (PL-100)](https://www.credly.com/badges/0ab34c2c-254f-49da-8ce2-ca44d1a2242c/public_url)
 - [Microsoft 365 Certified: Fundamentals - (MS - 900)](https://www.credly.com/badges/d296e48a-4db1-4236-a6cb-ed1f0d19f30e/public_url)
 
+<details>
+  <summary>Contribution badges</summary>
+  <p align ="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=karnatisrinivas&show_icons=true&locale=en" alt="pradumnasaraf" width="48%"/>
+     <img src ="https://github-readme-streak-stats.herokuapp.com?user=karnatisrinivas" alt="pradumnasaraf" width="48%"/>
+  </p>
+</details>
+
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2762](https://github.com/layer5io/layer5/issues/2762) in [layer5io/layer5](https://github.com/layer5io/layer5)
