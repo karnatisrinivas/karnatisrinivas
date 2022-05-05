@@ -4,9 +4,10 @@
 
 
 
-
 - 🔭 Currently working as SharePoint and Power Platforms Developer.
+
 - 🌱 Devops and Cloud Enthusiast ☁️
+
 - ⚡ Fun Fact: I love Coffee  💕
 
 <img align="right" alt="PNG" src="https://github.com/karnatisrinivas/karnatisrinivas/blob/main/cat.png" width="400" height="400" />
@@ -26,15 +27,17 @@
 
 ### How can we talk 💬 ?
 
+
 <a href="https://twitter.com/__karnati"><img src="https://img.shields.io/twitter/follow/__karnati?color=blue&label=%40__karnati&logo=twitter&style=for-the-badge" height="30"> </a>
    <a href="https://www.linkedin.com/in/srinivas-karnati"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30"/></a>
+   
 
 <!-- <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=karnatisrinivas&show_icons=true&theme=dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karnatisrinivas&theme=dark" />
 </p>
  -->
-### Hashnode Blogs 👇
+### Latest Blogs 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://srinivaskarnati.hashnode.dev/kubernetes-objects" title="Kubernetes Objects"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648699055404/FEZnozguZ.png" alt="Kubernetes Objects" width="250px" align="left" /></a>
@@ -50,28 +53,7 @@
 One of the fi... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-### Certifications:
-
-- [Microsoft Certified: Azure Fundamentals- (AZ -900)](https://www.credly.com/badges/2af168c1-1c47-4f2c-a378-16e972b31cd2/public_url)
-- [Microsoft Certified: Power Platform App Maker Associate - (PL-100)](https://www.credly.com/badges/0ab34c2c-254f-49da-8ce2-ca44d1a2242c/public_url)
-- [Microsoft 365 Certified: Fundamentals - (MS - 900)](https://www.credly.com/badges/d296e48a-4db1-4236-a6cb-ed1f0d19f30e/public_url)
-
-<details>
-  <summary>Contribution badges</summary>
-  <p align ="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=karnatisrinivas&show_icons=true&locale=en" alt="pradumnasaraf" width="48%"/>
-     <img src ="https://github-readme-streak-stats.herokuapp.com?user=karnatisrinivas" alt="pradumnasaraf" width="48%"/>
-  </p>
-</details>
-
-### Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2762](https://github.com/layer5io/layer5/issues/2762) in [layer5io/layer5](https://github.com/layer5io/layer5)
-2. 🗣 Commented on [#2759](https://github.com/layer5io/layer5/issues/2759) in [layer5io/layer5](https://github.com/layer5io/layer5)
-3. 🗣 Commented on [#2757](https://github.com/layer5io/layer5/issues/2757) in [layer5io/layer5](https://github.com/layer5io/layer5)
-4. 🗣 Commented on [#2757](https://github.com/layer5io/layer5/issues/2757) in [layer5io/layer5](https://github.com/layer5io/layer5)
-5. 💪 Opened PR [#2760](https://github.com/layer5io/layer5/pull/2760) in [layer5io/layer5](https://github.com/layer5io/layer5)
-<!--END_SECTION:activity-->
+### 📚 Certification Badges:
 
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/2af168c1-1c47-4f2c-a378-16e972b31cd2 "Microsoft Certified: Azure Fundamentals")
@@ -79,3 +61,16 @@ One of the fi... </p> <br/> <br/>
 [![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](http://www.credly.com/badges/47d424f1-02a2-4143-a862-a9e340363581 "Microsoft Certified: Power Platform Fundamentals")
 [![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/110x110/images/5c96fc59-1174-4dd0-a5c1-56772e38d8c7/microsoft365-fundamentals-600x600.png)](http://www.credly.com/badges/d296e48a-4db1-4236-a6cb-ed1f0d19f30e "Microsoft 365 Certified: Fundamentals")
 <!--END_SECTION:badges-->
+
+
+<details>
+	<summary><h3>Contribution badges</h3></summary>
+  <p align ="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=karnatisrinivas&show_icons=true&locale=en" alt="pradumnasaraf" width="48%"/>
+     <img src ="https://github-readme-streak-stats.herokuapp.com?user=karnatisrinivas" alt="pradumnasaraf" width="48%"/>
+  </p>
+</details>
+
+
+
+
