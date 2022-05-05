@@ -36,18 +36,24 @@
  -->
 ### Hashnode Blogs 👇
 <!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://srinivaskarnati.hashnode.dev/kubernetes-objects-cl1egvhbs01e5cznv62fd3i1n" title="Kubernetes Objects"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648699055404/FEZnozguZ.png" alt="Kubernetes Objects" width="250px" align="left" /></a>
+<table><tr><td><a href="https://srinivaskarnati.hashnode.dev/kubernetes-objects-cl1egvhbs01e5cznv62fd3i1n" title="Kubernetes Objects"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648699055404/FEZnozguZ.png" alt="Kubernetes Objects"   /></a>
 <a href="https://srinivaskarnati.hashnode.dev/kubernetes-objects-cl1egvhbs01e5cznv62fd3i1n" title="Kubernetes Objects"><strong>Kubernetes Objects</strong></a>
 <div><strong>31 Mar 2022</strong></div>
-<br/> Kubernetes objects are different types of entities provided by Kubernetes for deploying, maintaining, and scaling applications either on cloud or on-premise infrastructure. In this post we will go through different kubernetes objects that we'll use i... </p> <br/> <br/>
-<p align="left">
-<a href="https://srinivaskarnati.hashnode.dev/15-docker-commands-you-should-know-cl0hqto7h030w28nv1gzccime" title="15 Docker Commands you should know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646720346913/H6Prvcn-2.png" alt="15 Docker Commands you should know" width="250px" align="left" /></a>
+<br/> Kubernetes objects are different types of entities provided by Kubernetes for deploying, maintaining, and scaling applications either on cloud or on-premise infrastructure. In this post we will go through different kubernetes objects that we'll use i...</td><td><a href="https://srinivaskarnati.hashnode.dev/15-docker-commands-you-should-know-cl0hqto7h030w28nv1gzccime" title="15 Docker Commands you should know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646720346913/H6Prvcn-2.png" alt="15 Docker Commands you should know"   /></a>
 <a href="https://srinivaskarnati.hashnode.dev/15-docker-commands-you-should-know-cl0hqto7h030w28nv1gzccime" title="15 Docker Commands you should know"><strong>15 Docker Commands you should know</strong></a>
 <div><strong>8 Mar 2022</strong> | <strong>Updated: 8 Mar 2022</strong></div>
 <br/> Docker is a containerization system which packages and runs the application with its dependencies inside a container.  In this article, I mentioned about 15 Docker Commands you need to know while working with Docker.
 1. docker --version
-One of the fi... </p> <br/> <br/>
+One of the fi...</td></tr><tr><td><a href="https://srinivaskarnati.hashnode.dev/getting-started-with-azure-cli-cl0cilygk04hv2rnvhmli5e5s" title="Getting Started with Azure CLI"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646404221234/xRTwL7Nn8.png" alt="Getting Started with Azure CLI"   /></a>
+<a href="https://srinivaskarnati.hashnode.dev/getting-started-with-azure-cli-cl0cilygk04hv2rnvhmli5e5s" title="Getting Started with Azure CLI"><strong>Getting Started with Azure CLI</strong></a>
+<div><strong>4 Mar 2022</strong> | <strong>Updated: 4 Mar 2022</strong></div>
+<br/> What is Azure CLI?
+The Azure Command-Line Interface (CLI) is a command-line tool which connect to Azure and execute administrative commands on Azure resources. It allows the execution of commands through a terminal using interactive command-line prom...</td><td><a href="https://srinivaskarnati.hashnode.dev/azure-network-security-groups-cl06s1mn10g8zudnvgtcl8tzv" title="Azure Network Security Groups:"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646057462291/VZ3soXVOX.png" alt="Azure Network Security Groups:"   /></a>
+<a href="https://srinivaskarnati.hashnode.dev/azure-network-security-groups-cl06s1mn10g8zudnvgtcl8tzv" title="Azure Network Security Groups:"><strong>Azure Network Security Groups:</strong></a>
+<div><strong>28 Feb 2022</strong> | <strong>Updated: 28 Feb 2022</strong></div>
+<br/> Network Security Group
+An Azure Network Security Group (NSG) is a core component of Azure’s security. You can use an Azure network security group to filter network traffic to and from Azure resources in an Azure virtual network. Network (VNet). 
+A ne...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ### Certifications:
