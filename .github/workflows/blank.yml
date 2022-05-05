@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: 'srinivaskarnati' # Hashnode Username
           COUNT: 4 # MAX Visisble
-          style: "blog-grid"
+          style: "blog-left"
           BLOG_URL: "https://srinivaskarnati.hashnode.dev"
           
         env:
