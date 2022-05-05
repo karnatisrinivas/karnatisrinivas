@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'srinivaskarnati' # Hashnode Username
-          COUNT: 4 # MAX Visisble
+          COUNT: 2 # MAX Visisble
           style: "blog-left"
           BLOG_URL: "https://srinivaskarnati.hashnode.dev"
           
