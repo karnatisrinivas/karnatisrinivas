@@ -40,17 +40,17 @@
 ### Latest Blogs 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://srinivaskarnati.hashnode.dev/docker-extension-for-portainer" title="Docker extension for Portainer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652369963060/i0waETHHa.png" alt="Docker extension for Portainer" width="250px" align="left" /></a>
+<a href="https://srinivaskarnati.hashnode.dev/docker-extension-for-portainer" title="Docker extension for Portainer"><strong>Docker extension for Portainer</strong></a>
+<div><strong>12 May 2022</strong></div>
+<br/> In this article, we will see how to use Portainer extension for Docker Desktop. Does Portainer, Docker extensions sound new? Let's see what are those.
+What is Portainer?
+Portainer is a lightweight container management system which allows you to manag... </p> <br/> <br/>
+<p align="left">
 <a href="https://srinivaskarnati.hashnode.dev/kubernetes-objects" title="Kubernetes Objects"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648699055404/FEZnozguZ.png" alt="Kubernetes Objects" width="250px" align="left" /></a>
 <a href="https://srinivaskarnati.hashnode.dev/kubernetes-objects" title="Kubernetes Objects"><strong>Kubernetes Objects</strong></a>
 <div><strong>31 Mar 2022</strong></div>
 <br/> Kubernetes objects are different types of entities provided by Kubernetes for deploying, maintaining, and scaling applications either on cloud or on-premise infrastructure. In this post we will go through different kubernetes objects that we'll use i... </p> <br/> <br/>
-<p align="left">
-<a href="https://srinivaskarnati.hashnode.dev/15-docker-commands-you-should-know" title="15 Docker Commands you should know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646720346913/H6Prvcn-2.png" alt="15 Docker Commands you should know" width="250px" align="left" /></a>
-<a href="https://srinivaskarnati.hashnode.dev/15-docker-commands-you-should-know" title="15 Docker Commands you should know"><strong>15 Docker Commands you should know</strong></a>
-<div><strong>8 Mar 2022</strong> | <strong>Updated: 8 Mar 2022</strong></div>
-<br/> Docker is a containerization system which packages and runs the application with its dependencies inside a container.  In this article, I mentioned about 15 Docker Commands you need to know while working with Docker.
-1. docker --version
-One of the fi... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### 📚 Certification Badges:
