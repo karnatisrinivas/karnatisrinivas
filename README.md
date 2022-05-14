@@ -40,17 +40,20 @@
 ### Latest Blogs 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://srinivaskarnati.hashnode.dev/how-to-use-portainer-to-manage-azure-aci" title="How to use Portainer to manage Azure ACI?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652473111091/GDt1JtbSp.png" alt="How to use Portainer to manage Azure ACI?" width="250px" align="left" /></a>
+<a href="https://srinivaskarnati.hashnode.dev/how-to-use-portainer-to-manage-azure-aci" title="How to use Portainer to manage Azure ACI?"><strong>How to use Portainer to manage Azure ACI?</strong></a>
+<div><strong>13 May 2022</strong></div>
+<br/> In this post we will see how to work with Azure ACI instance using Portainer. Before diving in, let's have a overview of what Portainer and ACI are 🤔?
+What is Portainer?
+
+Portainer is an open source toolset that allows you to easily build and manage... </p> <br/> <br/>
+<p align="left">
 <a href="https://srinivaskarnati.hashnode.dev/docker-extension-for-portainer" title="Docker extension for Portainer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652369963060/i0waETHHa.png" alt="Docker extension for Portainer" width="250px" align="left" /></a>
 <a href="https://srinivaskarnati.hashnode.dev/docker-extension-for-portainer" title="Docker extension for Portainer"><strong>Docker extension for Portainer</strong></a>
 <div><strong>12 May 2022</strong></div>
 <br/> In this article, we will see how to use Portainer extension for Docker Desktop. Does Portainer, Docker extensions sound new? Let's see what are those.
 What is Portainer?
 Portainer is a lightweight container management system which allows you to manag... </p> <br/> <br/>
-<p align="left">
-<a href="https://srinivaskarnati.hashnode.dev/kubernetes-objects" title="Kubernetes Objects"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648699055404/FEZnozguZ.png" alt="Kubernetes Objects" width="250px" align="left" /></a>
-<a href="https://srinivaskarnati.hashnode.dev/kubernetes-objects" title="Kubernetes Objects"><strong>Kubernetes Objects</strong></a>
-<div><strong>31 Mar 2022</strong></div>
-<br/> Kubernetes objects are different types of entities provided by Kubernetes for deploying, maintaining, and scaling applications either on cloud or on-premise infrastructure. In this post we will go through different kubernetes objects that we'll use i... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### 📚 Certification Badges:
