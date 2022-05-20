@@ -70,7 +70,7 @@ Portainer is a lightweight container management system which allows you to manag
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/2af168c1-1c47-4f2c-a378-16e972b31cd2 "Microsoft Certified: Azure Fundamentals")
 [![Microsoft Certified: Power Platform App Maker Associate](https://images.credly.com/size/110x110/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png)](http://www.credly.com/badges/0ab34c2c-254f-49da-8ce2-ca44d1a2242c "Microsoft Certified: Power Platform App Maker Associate")
 [![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](http://www.credly.com/badges/47d424f1-02a2-4143-a862-a9e340363581 "Microsoft Certified: Power Platform Fundamentals")
-[![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/110x110/images/5c96fc59-1174-4dd0-a5c1-56772e38d8c7/microsoft365-fundamentals-600x600.png)](http://www.credly.com/badges/d296e48a-4db1-4236-a6cb-ed1f0d19f30e "Microsoft 365 Certified: Fundamentals")
+[![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/110x110/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](http://www.credly.com/badges/d296e48a-4db1-4236-a6cb-ed1f0d19f30e "Microsoft 365 Certified: Fundamentals")
 <!--END_SECTION:badges-->
 
 
