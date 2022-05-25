@@ -1,6 +1,5 @@
 #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Srinivas](https://twitter.com/__karnati)
 
-<img align="right" alt="PNG" src="https://github.com/karnatisrinivas/karnatisrinivas/blob/main/cat.png" width="400" height="400" />
 
 ### About me
 
@@ -10,6 +9,7 @@
 
 - ❤️ I believe in 4C's - Collaboration, Code , Consistency and Coffee
 
+<img align="right" alt="PNG" src="https://github.com/karnatisrinivas/karnatisrinivas/blob/main/cat.png" width="400" height="400" />
 
 
 ### Technologies I work with 🤔??
