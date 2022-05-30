@@ -51,6 +51,12 @@
 ### Latest Blogs 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://srinivaskarnati.hashnode.dev/kubecon" title="What a week! Kubecon + CloudNativeCon EU 2022"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653716305947/oozEUFUpJ.png" alt="What a week! Kubecon + CloudNativeCon EU 2022" width="250px" align="left" /></a>
+<a href="https://srinivaskarnati.hashnode.dev/kubecon" title="What a week! Kubecon + CloudNativeCon EU 2022"><strong>What a week! Kubecon + CloudNativeCon EU 2022</strong></a>
+<div><strong>29 May 2022</strong> | <strong>Updated: 29 May 2022</strong></div>
+<br/> Hello, I’m Srinivas and this is my blog on my learning and experiences for the first Kubecon + CloudNativeCon I ever attended (Virtually). 
+Kubecon + CloudNativeCon is one of the biggest conferences where Developers, users, and Companies who are adop... </p> <br/> <br/>
+<p align="left">
 <a href="https://srinivaskarnati.hashnode.dev/kubesphere-kubernetes-platform-for-cloud-native-app-management" title="Kubesphere - Kubernetes Platform For Cloud-Native App Management"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652797148757/K5nc5Usyh.png" alt="Kubesphere - Kubernetes Platform For Cloud-Native App Management" width="250px" align="left" /></a>
 <a href="https://srinivaskarnati.hashnode.dev/kubesphere-kubernetes-platform-for-cloud-native-app-management" title="Kubesphere - Kubernetes Platform For Cloud-Native App Management"><strong>Kubesphere - Kubernetes Platform For Cloud-Native App Management</strong></a>
 <div><strong>21 May 2022</strong> | <strong>Updated: 21 May 2022</strong></div>
@@ -64,14 +70,6 @@ Application Store
 Introduction to KubeSphere
 
 KubeSphere is a distributed operating system providing cloud nati... </p> <br/> <br/>
-<p align="left">
-<a href="https://srinivaskarnati.hashnode.dev/how-to-use-portainer-to-manage-azure-aci" title="How to use Portainer to manage Azure ACI?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652473111091/GDt1JtbSp.png" alt="How to use Portainer to manage Azure ACI?" width="250px" align="left" /></a>
-<a href="https://srinivaskarnati.hashnode.dev/how-to-use-portainer-to-manage-azure-aci" title="How to use Portainer to manage Azure ACI?"><strong>How to use Portainer to manage Azure ACI?</strong></a>
-<div><strong>13 May 2022</strong></div>
-<br/> In this post we will see how to work with Azure ACI instance using Portainer. Before diving in, let's have a overview of what Portainer and ACI are 🤔?
-What is Portainer?
-
-Portainer is an open source toolset that allows you to easily build and manage... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### 📚 Certification Badges:
