@@ -1,4 +1,4 @@
-#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Srinivas](https://twitter.com/__karnati)
+#  Hey there! I'm [Srinivas](https://twitter.com/__karnati)
 
 
 ### About me
