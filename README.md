@@ -89,10 +89,11 @@ KubeSphere is a distributed operating system providing cloud nati... </p> <br/> 
      <img src ="https://github-readme-streak-stats.herokuapp.com?user=karnatisrinivas" alt="srinivaskarnati" width="48%"/>
   </p>
 </details>
-<details> 
+<!-- <details> 
 	<summary> <h3> Resume </h3></summary>
 	<p align="center">
 		<img src="https://github.com/karnatisrinivas/karnatisrinivas/blob/main/Srinivaskarnati/Srinivaskarnati-1.png" alt="resume">
 	</p>
 	</details>
 	
+ -->
