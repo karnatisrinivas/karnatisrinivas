@@ -3,7 +3,7 @@
 
 ### About me
 
-- 🔭 Currently working as Azure DevOps and Power Platform Enthusiast.
+- 🔭 Currently working as Azure DevOps and Power Platform Associate
 
 - 🌱 Devops and Cloud Enthusiast ☁️
 
