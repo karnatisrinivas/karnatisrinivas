@@ -3,7 +3,7 @@
 
 ### About me
 
-- 🔭 Currently working as SharePoint and Power Platforms Developer.
+- 🔭 Currently working as Azure DevOps and Power Platform Enthusiast.
 
 - 🌱 Devops and Cloud Enthusiast ☁️
 
