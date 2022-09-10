@@ -30,10 +30,6 @@
 - Docker (...)
 - Kubernetes (...)
 - Terraform
-- Python
-- Power Apps
-- Power Automate
-- SharePoint Framework (SPFx)
 
 
 ### How can we talk 💬 ?
