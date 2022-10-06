@@ -3,9 +3,7 @@
 
 ### About me
 
-- 🔭 Currently working as Azure DevOps and Power Platform Associate
-
-- 🌱 Devops and Cloud Enthusiast ☁️
+- 🌱 Devops, DevRel, JavaScript 
 
 - ❤️ I believe in 4C's - Collaboration, Code , Consistency and Coffee
 
