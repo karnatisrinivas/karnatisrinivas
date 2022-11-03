@@ -69,6 +69,7 @@ KubeSphere is a distributed operating system providing cloud nati... </p> <br/> 
 ### 📚 Certification Badges:
 
 <!--START_SECTION:badges-->
+[![Fundamentals for Istio by Solo.io](https://images.credly.com/size/110x110/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png)](http://www.credly.com/badges/30d431a7-0d2c-4566-97f3-c2dc706fdb47 "Fundamentals for Istio by Solo.io")
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/2af168c1-1c47-4f2c-a378-16e972b31cd2 "Microsoft Certified: Azure Fundamentals")
 [![Microsoft Certified: Power Platform App Maker Associate](https://images.credly.com/size/110x110/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png)](http://www.credly.com/badges/0ab34c2c-254f-49da-8ce2-ca44d1a2242c "Microsoft Certified: Power Platform App Maker Associate")
 [![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](http://www.credly.com/badges/47d424f1-02a2-4143-a862-a9e340363581 "Microsoft Certified: Power Platform Fundamentals")
