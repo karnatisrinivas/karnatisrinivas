@@ -45,13 +45,13 @@
 ### Latest Blogs 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://srinivaskarnati.hashnode.dev/errimagepull-and-imagepullbackoff-in-kubernetes" title="ErrImagePull and ImagePullBackOff in Kubernetes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674022408167/abc67a8f-5345-4495-8b5d-5b66cd42bfbc.png" alt="ErrImagePull and ImagePullBackOff in Kubernetes" width="250px" align="left" /></a>
-<a href="https://srinivaskarnati.hashnode.dev/errimagepull-and-imagepullbackoff-in-kubernetes" title="ErrImagePull and ImagePullBackOff in Kubernetes"><strong>ErrImagePull and ImagePullBackOff in Kubernetes</strong></a>
+<a href="https://srinivaskarnati.hashnode.dev/errimagepull-and-imagepullbackoff-in-kubernetes-cld19vj9m000h08jr96uug0ca" title="ErrImagePull and ImagePullBackOff in Kubernetes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674022408167/abc67a8f-5345-4495-8b5d-5b66cd42bfbc.png" alt="ErrImagePull and ImagePullBackOff in Kubernetes" width="250px" align="left" /></a>
+<a href="https://srinivaskarnati.hashnode.dev/errimagepull-and-imagepullbackoff-in-kubernetes-cld19vj9m000h08jr96uug0ca" title="ErrImagePull and ImagePullBackOff in Kubernetes"><strong>ErrImagePull and ImagePullBackOff in Kubernetes</strong></a>
 <div><strong>18 Jan 2023</strong> | <strong>Updated: 21 Feb 2023</strong></div>
 <br/> When you create a pod in Kubernetes, it goes through a lot of steps. One of the important tasks is to pull the container image from the registry. While pulling those images from the registry, pods sometimes experience issues. If an error occurs, pods... </p> <br/> <br/>
 <p align="left">
-<a href="https://srinivaskarnati.hashnode.dev/what-happens-when-you-create-a-pod" title="What happens when you create a pod?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673762633477/b67ce9ee-9e6c-4a77-892e-cbada2130400.png" alt="What happens when you create a pod?" width="250px" align="left" /></a>
-<a href="https://srinivaskarnati.hashnode.dev/what-happens-when-you-create-a-pod" title="What happens when you create a pod?"><strong>What happens when you create a pod?</strong></a>
+<a href="https://srinivaskarnati.hashnode.dev/what-happens-when-you-create-a-pod-clcwz3b1j000008kz0p8w0iok" title="What happens when you create a pod?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673762633477/b67ce9ee-9e6c-4a77-892e-cbada2130400.png" alt="What happens when you create a pod?" width="250px" align="left" /></a>
+<a href="https://srinivaskarnati.hashnode.dev/what-happens-when-you-create-a-pod-clcwz3b1j000008kz0p8w0iok" title="What happens when you create a pod?"><strong>What happens when you create a pod?</strong></a>
 <div><strong>15 Sept 2022</strong> | <strong>Updated: 15 Jan 2023</strong></div>
 <br/> A pod is the smallest deployable unit that you can create and manage in Kubernetes.
 But how to create a pod, is just as simple as running kubectl run my-pod --image=nginx . But this simple task undergoes a complicated workflow that touches a lot of c... </p> <br/> <br/>
