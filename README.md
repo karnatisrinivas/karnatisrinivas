@@ -3,9 +3,11 @@
 
 ### About me
 
-- 🌱 Devops, DevRel, JavaScript 
+- 💻 DevOps Lab Engineer at [KodeKloud](https://kodekloud.com/)
+- 🤝 [KubeSimplify](https://kubesimplify.com/) Ambassador
+- 🌱 Devops, DevRel, Kubernetes, Container
 
-- ❤️ I believe in 4C's - Collaboration, Code , Consistency and Coffee
+- ❤️ I believe in 4C's - Code, Community, Content and Coffee.
 
 <img align="right" alt="PNG" src="https://github.com/karnatisrinivas/karnatisrinivas/blob/main/cat.png" width="400" height="400" />
 
@@ -81,5 +83,5 @@ But how to create a pod, is just as simple as running kubectl run my-pod --image
 		<img src="https://github.com/karnatisrinivas/karnatisrinivas/blob/main/Srinivaskarnati/Srinivaskarnati-1.png" alt="resume">
 	</p>
 	</details>
-	
- -->
+	 -->
+
