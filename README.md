@@ -1,5 +1,12 @@
 #  Hey there! I'm [Srinivas](https://twitter.com/__karnati)
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=DevOps+Engineer;Cloud+Native+Advocate;Code+Community+Content;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+
 
 ### About me
 
