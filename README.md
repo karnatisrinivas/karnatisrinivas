@@ -19,7 +19,6 @@
 <img align="right" alt="PNG" src="https://github.com/karnatisrinivas/karnatisrinivas/blob/main/cat.png" width="400" height="400" />
 
 
-### Technologies I work with 🤔??
 
 <!-- ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -30,13 +29,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%235835CC.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  -->
-- JavaScript
-- Git
-- Linux
-- Azure (...)
-- Docker (...)
-- Kubernetes (...)
-- Terraform
 
 
 ### How can we talk 💬 ?
