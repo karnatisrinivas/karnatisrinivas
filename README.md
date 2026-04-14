@@ -10,15 +10,6 @@
 </p>
 
 
-### About me
-
-- 💻 DevOps Lab Engineer at [KodeKloud](https://kodekloud.com/)
-- 🤝 [KubeSimplify](https://kubesimplify.com/) Ambassador
-- 🌱 Devops, DevRel, Kubernetes, Container
-
-- ❤️ I believe in 4C's - Code, Community, Content and Coffee.
-
-
 
 
 <!-- ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
