@@ -1,0 +1,26 @@
+name: "📚 Medium Blog Updater"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+
+permissions:
+  contents: write
+
+jobs:
+  update_blogs:
+    name: "Update Medium posts in README"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@v4
+
+      - name: "📝  Pull latest Medium posts"
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@__karnati"
+          max_post_count: 5
+          template: "- [$title]($url) — $date<br>"
+          date_format: "mmm dd, yyyy"
+          commit_message: "chore: update latest Medium posts"
